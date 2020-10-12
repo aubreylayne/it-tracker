@@ -1,0 +1,42 @@
+{
+  "logs": [
+    {
+      "message": "I fucked up",
+      "attention": true,
+      "tech": "Agnes Reeves",
+      "date": "2020-10-12T13:42:27.232Z",
+      "id": 1
+    },
+    {
+      "message": "please help",
+      "attention": true,
+      "tech": "Patricia Olberman",
+      "date": "2020-10-12T13:42:50.553Z",
+      "id": 3
+    },
+    {
+      "message": "super duper cereal",
+      "attention": false,
+      "tech": "Jane Doe",
+      "date": "2020-10-12T13:43:07.828Z",
+      "id": 4
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 2,
+      "firstName": "Aubrey",
+      "lastName": "Layne"
+    },
+    {
+      "id": 3,
+      "firstName": "Edith",
+      "lastName": "Puthie"
+    }
+  ]
+}
